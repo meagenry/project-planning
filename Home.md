@@ -7,9 +7,9 @@
 #### <a href="#feature-roadmaps">Feature roadmaps</a>
 #### <a href="#stakeholders">Stakeholders</a>
 ## Project Documentation
-#### <a href="wiki/Goals">Goals</a>
-#### <a href="wiki/Roadmap">Product roadmap</a>
-#### Feature roadmaps, milestones, user stories (<a href="wiki/Roadmap">see product roadmap</a>, template <a href="wiki/Feature-Roadmap-Template">here</a>)
+#### <a href="Goals.md">Goals</a>
+#### <a href="Roadmap.md">Product roadmap</a>
+#### Feature roadmaps, milestones, user stories (<a href="Featur_Roadmap.md">see feature roadmap</a>
 
 
 
