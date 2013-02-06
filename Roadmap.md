@@ -14,9 +14,9 @@ Sample Product Roadmap
 
 <table>
   <tr><th>Feature</th><th>Feature roadmap</th><th>Status</th></tr>
-  <tr><td>Feature 1</td><td>View | Edit</td><td>work in progress</td></tr>
+  <tr><td>Feature 1</td><td><a href="Feature_Roadmap.md">View</a> | Edit</td><td>work in progress</td></tr>
   <tr><td>Feature 2</td><td>View | Edit</td><td>Not started</td></tr>
-  <tr><td>Feature 3</td><td>View | Edit/td><td>Not started</td></tr>
+  <tr><td>Feature 3</td><td>View | Edit</td><td>Not started</td></tr>
   <tr><td>Feature 4</td><td>View | Edit</td><td>Not started</td></tr>
 </table>
 
